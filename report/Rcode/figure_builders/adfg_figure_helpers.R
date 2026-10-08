@@ -91,4 +91,8 @@ adfg_appendix_nonsalmon_year_range <- function(nonsalmon_data = NULL,
 adfg_format_year_span <- function(year_range, fallback = "1993–present") {
   if (length(year_range) != 2 || any(is.na(year_range))) return(fallback)
   paste0(year_range[[1]], "–", year_range[[2]])
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

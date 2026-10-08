@@ -49,4 +49,8 @@ first argument to select another destination. To render the full vignette, see
 ## License
 
 GPL-3.0-only. See `LICENSE` for the SPDX identifier and the complete license
+<<<<<<< HEAD
 text link.
+=======
+text link.
+>>>>>>> origin/main
